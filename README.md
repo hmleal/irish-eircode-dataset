@@ -19,21 +19,14 @@ This repository contains a free and open-source dataset of Irish Eircodes. Eirco
 The dataset is organized in a structured format and includes the following information:
 
 - Eircode
-- Address details (e.g., town/city, county)
-- Geographical coordinates (latitude and longitude)
+- Address details (e.g., first_line, second_line, city, county and address_type)
+- ~~Geographical coordinates (latitude and longitude)~~
 
 ## Usage
 
 ### Data Format
 
-The dataset is available in CSV format for easy integration into various applications and systems. You can use the dataset for:
-
-- Address validation
-- Geocoding
-- Spatial analysis
-- Research purposes
-
-Feel free to use the dataset in your projects and applications.
+The dataset is available in CSV format for easy integration into various applications and systems. Feel free to use the dataset in your projects and applications.
 
 ## Contributing
 
